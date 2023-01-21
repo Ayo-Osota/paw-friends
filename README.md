@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+# PAW FRIENDS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Best  Care Service For Your Lovely Fur Friends.
 
-## Available Scripts
+## [Technologies Used]()
+<p>
+<img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
-In the project directory, you can run:
+## Description
 
-### `npm start`
+We know you love your fur friends more, we give them the best care you desire. We are your fur’s friends away from home. We are the best caregiving agency for your fur friends. Like we said in the beginning, we give your fur friends the best care that you desire. Services include Dog Grooming, Dog Walking and Dog Sitters done by professional amd lisenced Doctors, Groomers and dog Walkers with over 10 years experience. Book a schedule on the website today.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Getting Started
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To view a live example, [click here](https://paw-friends.netlify.app/).
 
-### `npm test`
+### Installing
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### `npm run build`
+You'll need `Git` and `Node.js` (which comes with npm) installed on your computer.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+node@v10.16.0 or higher
+npm@6.9.0 or higher
+git@2.17.1 or higher
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repo.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone https://github.com/Ayo-Osota/paw-friends.git
+```
 
-### `npm run eject`
+2.Starting the Client application.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+cd paw-friends
+# install all packages
+npm install
+# start the server
+npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+`This will start client app on localhost:3000`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Executing program
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* Book a schedule
+* Subscribe to newsletter
+* Check out services 
+* See testimonies
+```
 
-## Learn More
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Not 
+```
+command to run if program contains helper info
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Authors
 
-### Code Splitting
+Contributors names and contact info
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+ex. Ayomikun Osota  
+ex. [@Ayo_Osota](https://twitter.com/Ayo_Osota)
 
-### Analyzing the Bundle Size
+## Version History
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Acknowledgments
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Designed by Veey
+* [Veey99](https://twitter.com/Veeyninetynine)
+Figma Design
+* [Design](https://t.co/1U8Y9jKUsR)
+* [Temporary_youtube_video_by_Enes_Yilmazer](https://www.figma.com/file/pw5iKX6cNQl928h0aSJZqn/Paw-care?node-id=0%3A1&t=fME4ciUKxfk6Ue7P-1)
