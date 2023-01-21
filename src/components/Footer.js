@@ -25,10 +25,10 @@ const Footer = () => {
                     <li><a href="">Terms & Conditions</a></li>
                     <li><a href="">Privacy Policy</a></li>
                 </ul>
-                <form action="">
+                <form action="https://formspree.io/f/meqwoneq" method="post">
                     <div className="form-control">
                         <label htmlFor='email'>newsletter</label>
-                        <input type="text" id='email' placeholder='Enter your email address' />
+                        <input required type="text" id='email' name='email' placeholder='Enter your email address' />
                     </div>
                     <button type='submit' className='btn newsletter-btn'>Subscribe Now</button>
                 </form>
