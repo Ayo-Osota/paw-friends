@@ -93,20 +93,20 @@ export const stories = [
     name: 'Dele',
     age: 50,
     image: storyTeller2,
-    text: "“I have been using services of paw care for over two years and I am extremely satisfied with their service. The staff are loving and attentive to my dog's needs and I always feel confident leaving my furry friend in their care. The facility is clean and well-maintained, and I appreciate the daily updates and photos I receive while I am away. I highly recommend paw care to anyone looking for trust worthy dog care givers."
+    text: "“I can't say enough good things about Paw Care! I've been using their services for my dog for over a year now, and they always go above and beyond to make sure my furry friend is happy and healthy. The team is incredibly knowledgeable and caring, and I feel confident leaving my dog in their capable hands."
   },
   {
     id: 3,
     name: 'Segun',
     age: 50,
     image: storyTeller3,
-    text: "“I have been using services of paw care for over two years and I am extremely satisfied with their service. The staff are loving and attentive to my dog's needs and I always feel confident leaving my furry friend in their care. The facility is clean and well-maintained, and I appreciate the daily updates and photos I receive while I am away. I highly recommend paw care to anyone looking for trust worthy dog care givers."
+    text: "“Paw Care is the best pet care service out there. I love that they offer personalized care plans for each animal, and their attention to detail is unmatched. Whether it's a quick check-in or a longer stay, I know my pets are in great hands with Paw Care."
   },
   {
     id: 4,
     name: 'Fela',
     age: 50,
     image: storyTeller4,
-    text: "“I have been using services of paw care for over two years and I am extremely satisfied with their service. The staff are loving and attentive to my dog's needs and I always feel confident leaving my furry friend in their care. The facility is clean and well-maintained, and I appreciate the daily updates and photos I receive while I am away. I highly recommend paw care to anyone looking for trust worthy dog care givers."
+    text: "“I can't thank Paw Care enough for their exceptional service. My dog has some special needs, and the team at Paw Care always makes sure to accommodate them. They're flexible, friendly, and truly care about their clients. I feel lucky to have found such a wonderful pet care service!"
   }
 ]

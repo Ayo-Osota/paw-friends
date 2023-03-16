@@ -48,6 +48,7 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  outline: solid red;
 }
 
 /* Remove default margin */
@@ -88,6 +89,13 @@ body {
   text-rendering: optimizeSpeed;
   line-height: 1.5;
 }
+
+@media (max-width: 50em) {
+  ::-webkit-scrollbar {
+    display: none;
+  }
+}
+
 
 /* A elements that don't have a class get default styles */
 a:not([class]) {
