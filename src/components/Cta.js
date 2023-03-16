@@ -15,7 +15,7 @@ const Cta = () => {
                         <button type="button" data-type="inverted" className="btn">Contact us</button>
                     </div>
                 </article>
-            <img src={huskiePuppies} className="display-sm-none" alt="adorable-husky-puppies-lying-isolated" />
+            <img src={huskiePuppies} className="" alt="adorable-husky-puppies-lying-isolated" />
         </section>
     )
 }

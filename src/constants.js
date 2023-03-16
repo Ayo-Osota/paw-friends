@@ -1,5 +1,10 @@
 import React from 'react'
 import { MdHealthAndSafety, MdTv, MdHouse, MdSell } from "react-icons/md";
+import storyTeller1 from "./assets/story-teller-01.png";
+import storyTeller2 from "./assets/story-teller-02.png";
+import storyTeller3 from "./assets/story-teller-03.png";
+import storyTeller4 from "./assets/story-teller-04.png";
+
 export const links = [
   {
     id: 1,
@@ -80,24 +85,28 @@ export const stories = [
     id: 1,
     name: 'Sarah',
     age: 50,
+    image: storyTeller1,
     text: "“I have been using services of paw care for over two years and I am extremely satisfied with their service. The staff are loving and attentive to my dog's needs and I always feel confident leaving my furry friend in their care. The facility is clean and well-maintained, and I appreciate the daily updates and photos I receive while I am away. I highly recommend paw care to anyone looking for trust worthy dog care givers."
   },
   {
     id: 2,
     name: 'Dele',
     age: 50,
+    image: storyTeller2,
     text: "“I have been using services of paw care for over two years and I am extremely satisfied with their service. The staff are loving and attentive to my dog's needs and I always feel confident leaving my furry friend in their care. The facility is clean and well-maintained, and I appreciate the daily updates and photos I receive while I am away. I highly recommend paw care to anyone looking for trust worthy dog care givers."
   },
   {
     id: 3,
     name: 'Segun',
     age: 50,
+    image: storyTeller3,
     text: "“I have been using services of paw care for over two years and I am extremely satisfied with their service. The staff are loving and attentive to my dog's needs and I always feel confident leaving my furry friend in their care. The facility is clean and well-maintained, and I appreciate the daily updates and photos I receive while I am away. I highly recommend paw care to anyone looking for trust worthy dog care givers."
   },
   {
     id: 4,
     name: 'Fela',
     age: 50,
+    image: storyTeller4,
     text: "“I have been using services of paw care for over two years and I am extremely satisfied with their service. The staff are loving and attentive to my dog's needs and I always feel confident leaving my furry friend in their care. The facility is clean and well-maintained, and I appreciate the daily updates and photos I receive while I am away. I highly recommend paw care to anyone looking for trust worthy dog care givers."
   }
 ]

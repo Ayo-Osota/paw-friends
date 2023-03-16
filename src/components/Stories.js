@@ -15,7 +15,7 @@ const Stories = () => {
             1 + index < 0 ? setIndex(stories.length - 1) :
                 1 + index > stories.length - 1 ? setIndex(0) :
                     setIndex(1 + index)
-        }, 5000);
+        }, 5600);
         return () => {
             clearInterval(autoSlide);
         };
@@ -32,21 +32,27 @@ const Stories = () => {
                     <p>{text}</p>
                 </article>
                 <div>
-                <img src={carousel} alt="carousel" className="display-sm-none"/>
-            <div className="carousel-btn__wrapper">
-                {stories.map((testimony, i) => {
-                    return (
-                        <button
-                            key={i}
-                            type="button"
-                            className={i === index ? "carousel-btn__active carousel-btn " : "carousel-btn"}
-                            onClick={() => setIndex(i)}
-                        >
-                        </button>
-                    )
-                })}
-            </div>
-            </div>
+                    <div className="gallery">
+                        {stories.map((story) => {
+                            return (
+                                <img key={story.id} src={story.image} alt="carousel" />
+                            )
+                        })}
+                    </div>
+                    <div className="carousel-btn__wrapper">
+                        {stories.map((testimony, i) => {
+                            return (
+                                <button
+                                    key={i}
+                                    type="button"
+                                    className={i === index ? "carousel-btn__active carousel-btn " : "carousel-btn"}
+                                    onClick={() => setIndex(i)}
+                                >
+                                </button>
+                            )
+                        })}
+                    </div>
+                </div>
             </div>
         </section>
     )
