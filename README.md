@@ -16,7 +16,7 @@ We know you love your fur friends more, we give them the best care you desire. W
 
 ## Getting Started
 
-To view a live example, [click here](https://paw-friends.netlify.app/).
+To view a live example, [click here](https://paw-friends99.netlify.app/).
 
 ### Installing
 
