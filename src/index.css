@@ -48,7 +48,6 @@
 *::before,
 *::after {
   box-sizing: border-box;
-  outline: solid red;
 }
 
 /* Remove default margin */
